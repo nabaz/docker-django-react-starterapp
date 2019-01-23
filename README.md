@@ -28,3 +28,10 @@ It's already setup to use postgres in the setting - you can use this command to 
 docker-compose run django python ./backend/backend/manage.py migrate
 ```
 
+
+## Django - Create new app
+
+```
+cd into backend
+django-admin startapp api
+```
