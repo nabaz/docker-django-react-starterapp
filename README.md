@@ -25,7 +25,7 @@ docker-compose up --build
 It's already setup to use postgres in the setting - you can use this command to run migrations:
 
 ```
-docker-compose run django python ./backend/backend/manage.py migrate
+docker-compose run django python /app/api/manage.py migrate
 ```
 
 
