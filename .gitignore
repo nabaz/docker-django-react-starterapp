@@ -1,0 +1,4 @@
+./backend/backend/.env
+curr_frontend
+frontend/node_modules
+.vscode

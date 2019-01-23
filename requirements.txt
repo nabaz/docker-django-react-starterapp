@@ -1,0 +1,8 @@
+django
+djangorestframework
+psycopg2
+django-environ==0.4.4
+djangorestframework
+markdown
+django-filter
+django-rest-auth[with_social]
